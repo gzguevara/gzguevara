@@ -1,5 +1,5 @@
 
-## Data Scientist in Moscow!
+## Junior Data Scientist & Creative Coder
 
 - 🔭 My interactive DL web-applications [Try it!][website]
 - 📑 The latest version of my CV can be found [here][CV]
