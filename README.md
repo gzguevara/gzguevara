@@ -3,7 +3,7 @@
 
 - 🔭 My interactive DL web-applications [Try it!][website]
 - 📑 The latest version of my CV can be found [here][CV]
-- 🎓 B.Sc. Mathematical Economics & M.Sc. Business Informatics
+- 🎓 B.Sc. Mathematical Economics & M.Sc. Applied Mathematics & Informatics
 - ⚡ Fun fact: I love languages. I speak fluently 🇩🇪, 🇬🇧, 🇪🇸 and 🇷🇺
 
 ## Languages and Other Tools
@@ -107,4 +107,4 @@
 
 
 [website]: https://erich-ganz-cv.herokuapp.com/sketch_pad
-[CV]: https://github.com/gzguevara/gzguevara/blob/master/резюме.pdf
+[CV]: https://github.com/gzguevara/gzguevara/blob/master/cvErichGanz.pdf
