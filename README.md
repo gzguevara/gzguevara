@@ -47,7 +47,7 @@
   <td><a href = "https://github.com/gzguevara/Data-Science/tree/master/SberBank%20Hackathon">Solution & Presentation</a></td>
 </tr>
 <tr>
-  <td>Personal Project</td>
+  <td>Fun Project</td>
   <td>Web-app for recocnition of written numbers</td>
   <td>I wanted to build a webapp with the knowledge I had from my courses about neural networks. This webapp ist based on the MNIST numebrs data set and uses a ResNet18 NN. I had to build a rather complicated pipeline to transform the written numbers by the user from HTML-canvas to tensors which can be interpretaded by the fast.ai neural network. Feel free to contact me should you have any questions regarding the implementation. !!! It might take a few seconds for the webapp to load!!!</td>
   <td><a href = "https://erich-ganz-cv.herokuapp.com/sketch_pad"> Webapp </a> & <a href = "https://github.com/gzguevara/Data-Science/blob/master/Deep%20Learning/MNIST_Pipeline.ipynb"> Pipeline </a></td>
