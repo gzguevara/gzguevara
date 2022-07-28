@@ -32,7 +32,9 @@
   <td> <p align="center"> 
     Kaggle Competition <br> - Current - 
   </p> </td>
-  <td>American Express Credit Scoring.</td>
+  <td> <p align="center"> 
+    American Express Credit Scoring.
+  </p> </td>
   <td> Task: Find items with a critically large size for the further process. Approach: Find edges of these items with edge-detection NNs. Construct convex hulls around the edges and calculate the size of the convex hulls. Conclusion: The application automatically recognizes critically large items. However, due to the spatial circumstances, the exact size might be measured incorrectly.</td>
   <td><a href = "https://github.com/gzguevara/Data-Science/tree/master/SberBank%20Hackathon">Solution & Presentation</a></td>
 </tr>
@@ -44,9 +46,9 @@
   <td> <p align="center"> 
     Computer Vision application for quality control.
   </p> </td>
-  <td> <p align="center"> 
+  <td>
     Task: Find items with a critically large size for the further process. Approach: Find edges of these items with edge-detection NNs. Construct convex hulls around the edges and calculate the size of the convex hulls. Conclusion: The application automatically recognizes critically large items. However, due to the spatial circumstances, the exact size might be measured incorrectly.
-  </p> </td>
+  </td>
   <td>
     <a href = "https://github.com/gzguevara/Data-Science/tree/master/SberBank%20Hackathon">Solution & Presentation</a>
   </td>
@@ -55,8 +57,10 @@
 <tr>
   <td> <p align="center">
     SberBank Hackathon <br> - Jan 2021 - 
-  </p>  </td>
-  <td> Credit Scoring University Project <a href = "https://dsbattle.com/hackathons/gsb/">GSB Data Science Practice</a></td>
+  </p> </td>
+  <td> <p align="center"> 
+    Credit Scoring University Project <a href = "https://dsbattle.com/hackathons/gsb/">GSB Data Science Practice</a>
+  </p> </td>
   <td>My team implemented methods like Altman Z-score, Weights of Evidence and Binning, on which we built a Logistic regression. We made it on the first place by the results for the model quality. On the leaderbord we landed on the 3rd place.</td>
   <td><a href = "https://github.com/gzguevara/Data-Science/tree/master/SberBank%20Hackathon">Solution & Presentation</a></td>
 </tr>
@@ -64,7 +68,9 @@
   <td> <p align="center">
     University Fun Project <br> - Nov 2021 - 
   </p> </td>
-  <td>Web-app for recocnition of hand-written numbers</td>
+  <td> <p align="center">
+    Web-app for recocnition of hand-written numbers
+  </p> </td>
   <td>Every young data scientist starts from MNIST numbers :) In university courses you train some ResNet18 NN, look at some metric, and the course is done. I build a web-app, where the user can write numbers, which then get recognised and returned. I wrote a pipeline to transform the written numbers from an HTML-canvas to tensors, compatible with the NN. Loading the website might take a few seconds.</td>
   <td><a href = "https://erich-ganz-cv.herokuapp.com/sketch_pad"> Webapp </a> & <a href = "https://github.com/gzguevara/Data-Science/blob/master/Deep%20Learning/MNIST_Pipeline.ipynb"> Pipeline </a></td>
 </tr> 
