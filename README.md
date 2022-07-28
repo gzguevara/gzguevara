@@ -37,14 +37,11 @@
 
 <tr>
   <td> <p align="center"> 
-    Internship Project <br><br> Mar 2021 
-    </p> </td>
+    Internship Project <br><br> Mar 2021 </p> </td>
   <td> <p align="center"> 
-    Computer Vision application for quality control. 
-    </p> </td>
+    Computer Vision application for quality control. </p> </td>
   <td> <p align="center"> 
-    Task: Find items with a critically large size for the further process. Approach: Find edges of these items with edge-detection NNs. Construct convex hulls around the edges and calculate the size of the convex hulls. Conclusion: The application automatically recognizes critically large items. However, due to the spatial circumstances, the exact size might be measured incorrectly.
-  </p> </td>
+    Task: Find items with a critically large size for the further process. Approach: Find edges of these items with edge-detection NNs. Construct convex hulls around the edges and calculate the size of the convex hulls. Conclusion: The application automatically recognizes critically large items. However, due to the spatial circumstances, the exact size might be measured incorrectly.</p> </td>
   <td>
     <a href = "https://github.com/gzguevara/Data-Science/tree/master/SberBank%20Hackathon">Solution & Presentation</a>
     </td>
