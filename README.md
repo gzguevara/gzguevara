@@ -29,6 +29,12 @@
   <th>Solution</th>
 </tr> 
 <tr>
+  <td>Internship Project</td>
+  <td>Computer Vision application for quality control.</td>
+  <td> Task: Find items with a critically large size for the further process. Approach: Find edges of these items with edge-detection NNs. Construct convex hulls around the edges and calculate the size of the convex hulls. Conclusion: The application automatically recognizes critically large items. However, due to the spatial circumstances, the exact size might be measured incorrectly.</td>
+  <td><a href = "https://github.com/gzguevara/Data-Science/tree/master/SberBank%20Hackathon">Solution & Presentation</a></td>
+</tr>
+<tr>
   <td>Hackathon</td>
   <td><a href = "https://dsbattle.com/hackathons/gsb/">GSB Data Science Practice</a> Predtiction of company default.</td>
   <td>We implemented methods like Altman Z-score, Weights of Evidence and Binning, on which we built a Logistic regression. We made it on the first place by the results for the model quality. There is also a presentation to the code.</td>
