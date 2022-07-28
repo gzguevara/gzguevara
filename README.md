@@ -27,7 +27,13 @@
   <th>Name</th>
   <th>Describtion</th>
   <th>Solution</th>
-</tr> 
+</tr>
+<tr>
+  <td>Kaggle Competition</td>
+  <td>American Express Credit Scoring</td>
+  <td> Task: Find items with a critically large size for the further process. Approach: Find edges of these items with edge-detection NNs. Construct convex hulls around the edges and calculate the size of the convex hulls. Conclusion: The application automatically recognizes critically large items. However, due to the spatial circumstances, the exact size might be measured incorrectly.</td>
+  <td><a href = "https://github.com/gzguevara/Data-Science/tree/master/SberBank%20Hackathon">Solution & Presentation</a></td>
+</tr>
 <tr>
   <td>Internship Project</td>
   <td>Computer Vision application for quality control.</td>
