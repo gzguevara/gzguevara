@@ -55,31 +55,6 @@
 </tr> 
 </table>
 
-## Self-Written Summaries for Common Tasks in Data Science
-
-<table>
-<tr>
-  <th>Topic</th>
-  <th>Describtion</th>
-  <th>Link</th>
-</tr> 
-<tr>
-  <td>Dimensionality Reduction</td>
-  <td>Here is a summary of different algorithms for dimensionality reduction. E.g. Principal Component Analysis, Factor Analysis </td>
-  <td><a href = "https://github.com/gzguevara/Data-Science/blob/master/Machine%20Learning/DimensionalityReduction.ipynb">Link</a></td>
-</tr>
-<tr>
-  <td>Classification Models</td>
-  <td>Here is a summary of different binary and multiclass classification algorithms. E.g. KNN, Decision Tree Classifier</td>
-  <td><a href = "https://github.com/gzguevara/Data-Science/blob/master/Machine%20Learning/ClassificationSummary.ipynb">Link</a></td>
-</tr> 
-<tr>
-  <td>Clustering Models</td>
-  <td>Here is a summary of different clustering algorithms. E.g. KMeans, MeanShift, DBscan</td>
-  <td><a href = "https://github.com/gzguevara/Data-Science/blob/master/Machine%20Learning/ClusteringSummary.ipynb">Link</a></td>
-</tr> 
-</table>
-
 ## Programming Skills
 
 <table>
