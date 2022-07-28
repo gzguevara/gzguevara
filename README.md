@@ -71,7 +71,7 @@
   <td> <p align="center">
     Web-app for recocnition of hand-written numbers
   </p> </td>
-  <td>Every young data scientist starts from MNIST numbers :) In university courses you train some ResNet18 NN, look at some metric, and the course is done. I build a web-app, where the user can write numbers, which then get recognised and returned. I wrote a pipeline to transform the written numbers from an HTML-canvas to tensors, compatible with the NN. Loading the website might take a few seconds.</td>
+  <td>Every young data scientist starts from MNIST numbers :) In university courses you train some ResNet18 NN, look at some metric, and the course is done. I build a web-app, where the user can write numbers, which then get recognised and returned. I wrote a pipeline to transform the written numbers from an HTML-canvas to tensors, compatible with the NN. Loading might take a few seconds.</td>
   <td><a href = "https://erich-ganz-cv.herokuapp.com/sketch_pad"> Webapp </a> & <a href = "https://github.com/gzguevara/Data-Science/blob/master/Deep%20Learning/MNIST_Pipeline.ipynb"> Pipeline </a></td>
 </tr> 
 </table>
