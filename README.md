@@ -64,7 +64,9 @@
   <td> <p align="center"> 
     Credit Scoring University Project <a href = "https://dsbattle.com/hackathons/gsb/">GSB Data Science Practice</a>
   </p> </td>
-  <td>My team implemented methods like Altman Z-score, Weights of Evidence and Binning, on which we built a Logistic regression. We made it on the first place by the results for the model quality. On the leaderbord we landed on the 3rd place.</td>
+  <td>
+    My team implemented methods like Altman Z-score, Weights of Evidence and Binning, on which we built a Logistic regression. We made it on the first place by the results for the model quality. On the leaderbord we landed on the 3rd place.
+  </td>
   <td> <p align="center"> 
     <a href = "https://github.com/gzguevara/Data-Science/tree/master/SberBank%20Hackathon"> Code & Presentation</a>
   </p> </td>
@@ -77,7 +79,9 @@
   <td> <p align="center">
     Computer Vision Web-app with MNIST numbers
   </p> </td>
-  <td>Every young data scientist starts from MNIST numbers :) In university courses you train some ResNet18 NN, look at some metric, and the course is done. I build a web-app, where the user can write numbers, which then get recognised and returned. I wrote a pipeline from an HTML-canvas to tensors, compatible with the NN. Loading might take a few seconds.</td>
+  <td>
+    Every young data scientist starts from MNIST numbers :) In university courses you train some ResNet18 NN, look at some metric, and the course is done. I build a web-app, where the user can write numbers, which then get recognised and returned. I wrote a pipeline from an HTML-canvas to tensors, compatible with the NN. Loading might take a few seconds.
+  </td>
   <td> <p align="center">
     <a href = "https://erich-ganz-cv.herokuapp.com/sketch_pad"> Webapp </a> & <a href = "https://github.com/gzguevara/Data-Science/blob/master/Deep%20Learning/MNIST_Pipeline.ipynb"> Pipeline </a> 
   </p> </td>
