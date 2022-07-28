@@ -43,13 +43,13 @@
 <tr>
   <td>SberBank Hackathon</td>
   <td> Credit Scoring University Project <a href = "https://dsbattle.com/hackathons/gsb/">GSB Data Science Practice</a></td>
-  <td>We implemented methods like Altman Z-score, Weights of Evidence and Binning, on which we built a Logistic regression. We made it on the first place by the results for the model quality. There is also a presentation to the code.</td>
+  <td>My team implemented methods like Altman Z-score, Weights of Evidence and Binning, on which we built a Logistic regression. We made it on the first place by the results for the model quality. On the leaderbord we landed on the 3rd place.</td>
   <td><a href = "https://github.com/gzguevara/Data-Science/tree/master/SberBank%20Hackathon">Solution & Presentation</a></td>
 </tr>
 <tr>
-  <td>Fun Project</td>
-  <td>Web-app for recocnition of written numbers</td>
-  <td>I wanted to build a webapp with the knowledge I had from my courses about neural networks. This webapp ist based on the MNIST numebrs data set and uses a ResNet18 NN. I had to build a rather complicated pipeline to transform the written numbers by the user from HTML-canvas to tensors which can be interpretaded by the fast.ai neural network. Feel free to contact me should you have any questions regarding the implementation. !!! It might take a few seconds for the webapp to load!!!</td>
+  <td>Summer Fun Project</td>
+  <td>Web-app for recocnition of hand-written numbers</td>
+  <td>Every young data scientist starts from MNIST numbers :) In university courses you train some ResNet18 NN, look at some metric, and the course is done. I build a web-app, where the user can write numbers, which then get recognised and returned. I wrote a pipeline to transform the written numbers from an HTML-canvas to tensors, compatible with the NN. Loading the website might take a few seconds.</td>
   <td><a href = "https://erich-ganz-cv.herokuapp.com/sketch_pad"> Webapp </a> & <a href = "https://github.com/gzguevara/Data-Science/blob/master/Deep%20Learning/MNIST_Pipeline.ipynb"> Pipeline </a></td>
 </tr> 
 </table>
