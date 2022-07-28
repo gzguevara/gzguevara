@@ -90,22 +90,31 @@
 <tr>
   <th>Topic</th>
   <th>Describtion</th>
-  <th>Link</th>
+  <th>Code</th>
 </tr> 
+
 <tr>
-  <td>TicTacToe</td>
+  <td> <p align="center">
+    TicTacToe
+  </p> </td>
   <td> 10 x 10 TicTacToe with a terminal interface. Here you can see my ability to write a large program with many interacting function.</td>
-  <td><a href = "https://github.com/gzguevara/Complete-Programs/blob/master/TicTacToe.py">Link</a></td>
+  <td><a href = "https://github.com/gzguevara/Complete-Programs/blob/master/TicTacToe.py">Code</a></td>
 </tr>
+
 <tr>
-  <td>Calculator of Geometric Shapes</td>
+  <td> <p align="center"> 
+    Calculator of Geometric Shapes
+  </p> </td>
   <td>This program calculates varibales like volume, area of several geometric shapes. It is fully based on OOP and shows that I understand the principals of OOP.</td>
-  <td><a href = "https://github.com/gzguevara/Complete-Programs/tree/master/CalculatorGrometricsFroms">Link</a></td>
+  <td><a href = "https://github.com/gzguevara/Complete-Programs/tree/master/CalculatorGrometricsFroms">Code</a></td>
 </tr> 
+
 <tr>
-  <td>2OPT Algorithm for Traveling Salesman</td>
+  <td> <p align="center">
+    2OPT Algorithm for Traveling Salesman
+  </p> </td>
   <td>The 2OPT algorithm and it's variation is my favorit algorithm. Here is a good notebook which explains how it works. I also wrote my own implementation with a recursive function.</td>
-  <td><a href = "https://github.com/gzguevara/Algorithms-And-Programming-Skills/blob/master/TravelingSalesman.ipynb">Link</a></td>
+  <td><a href = "https://github.com/gzguevara/Algorithms-And-Programming-Skills/blob/master/TravelingSalesman.ipynb">Code</a></td>
 </tr> 
 </table>
 
