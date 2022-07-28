@@ -42,12 +42,6 @@
 </tr> 
 
 <tr>
-  <td>University Project</td>
-  <td>Predicting Tornados Based on Meteorological Data</td>
-  <td>We were given 4 hours for this project. The goal was to quickly dive into the data, understand what needs to be done and come up with a reasonable solution.</td>
-  <td><a href = "https://github.com/gzguevara/Data-Science/blob/master/Machine%20Learning/PredictingTornados.ipynb"> Solution </a></td>
-</tr> 
-<tr>
   <td>Personal Project</td>
   <td>Algorithmic trading with IEX Cloud</td>
   <td>I have always beein interested into finance and trading. This notebook contains several implementations of trading strategies.</td>
