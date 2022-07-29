@@ -54,7 +54,7 @@
     For our customer large size metal items posed risk in a metal process. I build an app for detection of large items. The app finds edges of items with edge-detection NNs. It constructs convex hulls around the edges and calculate the size of the convex hulls. The application automatically recognizes critically large items. Due to the spatial circumstances, the exact size might be measured incorrectly.
   </td>
   <td> <p align="center"> 
-    <a href = "https://github.com/gzguevara/CV_app_DexiNed"> Code </a>
+    <a href = "https://github.com/gzguevara/DexiNed_app/blob/master/pipeline_train_cars.ipynb"> Code </a>
   </p> </td>
 </tr>
 
