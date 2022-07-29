@@ -37,7 +37,7 @@
     <a href = "https://www.kaggle.com/competitions/amex-default-prediction/overview"> American Express Credit Scoring </a>
   </p> </td>
   <td>
-   For our customer large size metal items posed risk in a metal process. I build an app for detection of large items. The app finds edges of items with edge-detection NNs. It constructs convex hulls around the edges and calculate the size of the convex hulls. The application automatically recognizes critically large items. However, due to the spatial circumstances, the exact size might be measured incorrectly.</td>
+   Summer 2022, after my master's, I decide to finally join a kaggle competition. I had some experiance with credit scoring. Currently I am working with an ensemble of models for different kinds of customers. Last time I checked I was on place 655 of 3000. </td>
   <td> <p align="center"> 
   <a href = "https://github.com/gzguevara/Data-Science/tree/master/SberBank%20Hackathon"> Code </a>
   </p> </td>
