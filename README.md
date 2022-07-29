@@ -37,7 +37,7 @@
     American Express Credit Scoring.
   </p> </td>
   <td>
-   Task: Find items with a critically large size for the further process. Approach: Find edges of these items with edge-detection NNs. Construct convex hulls around the edges and calculate the size of the convex hulls. Conclusion: The application automatically recognizes critically large items. However, due to the spatial circumstances, the exact size might be measured incorrectly.</td>
+   For our customer large size metal items posed risk in a metal process. I build an app for detection of large items. The app finds edges of items with edge-detection NNs. It constructs convex hulls around the edges and calculate the size of the convex hulls. The application automatically recognizes critically large items. However, due to the spatial circumstances, the exact size might be measured incorrectly.</td>
   <td> <p align="center"> 
   <a href = "https://github.com/gzguevara/Data-Science/tree/master/SberBank%20Hackathon"> Code </a>
   </p> </td>
@@ -45,13 +45,13 @@
 
 <tr>
   <td> <p align="center"> 
-    Internship Project <br> - Mar 2021 -
+    Internship Project <br> - Mar 2022 -
   </p> </td>
   <td> <p align="center"> 
     Computer Vision application for quality control.
   </p> </td>
   <td>
-    Task: Find items with a critically large size for the further process. Approach: Find edges of these items with edge-detection NNs. Construct convex hulls around the edges and calculate the size of the convex hulls. Conclusion: The application automatically recognizes critically large items. However, due to the spatial circumstances, the exact size might be measured incorrectly.
+    For our customer large size metal items posed risk in a metal process. I build an app for detection of large items. The app finds edges of items with edge-detection NNs. It constructs convex hulls around the edges and calculate the size of the convex hulls. The application automatically recognizes critically large items. However, due to the spatial circumstances, the exact size might be measured incorrectly.
   </td>
   <td> <p align="center"> 
     <a href = "https://github.com/gzguevara/Data-Science/tree/master/SberBank%20Hackathon"> Code </a>
@@ -60,13 +60,13 @@
 
 <tr>
   <td> <p align="center">
-    SberBank Hackathon <br> - Jan 2021 - 
+    SberBank Hackathon <br> - Dec 2021 - 
   </p> </td>
   <td> <p align="center"> 
     Credit Scoring University Project <a href = "https://dsbattle.com/hackathons/gsb/">GSB Data Science Practice</a>
   </p> </td>
   <td>
-    My team implemented methods like Altman Z-score, Weights of Evidence and Binning, on which we built a Logistic regression. We made it on the first place by the results for the model quality. On the leaderbord we landed on the 3rd place.
+    My team computed addtional features based on Altman Z-score, Weights of Evidence and Binning, on which we built a Logistic Regression. We made it on the first place by the results for the model quality. On the leaderbord we landed on the 3rd place.
   </td>
   <td> <p align="center"> 
     <a href = "https://github.com/gzguevara/Data-Science/tree/master/SberBank%20Hackathon"> Code & Presentation</a>
@@ -81,7 +81,7 @@
     Computer Vision Web-app with MNIST numbers
   </p> </td>
   <td>
-    Every young data scientist starts from MNIST numbers :) In university courses you train some ResNet18 NN, look at some metric, and the course is done. I build a web-app, where the user can write numbers, which then get recognised and returned. I wrote a pipeline from an HTML-canvas to tensors, compatible with the NN. Loading might take a few seconds.
+    Every young data scientist starts from MNIST numbers :) In university courses you train some ResNet18 NN, look at some metric, and the course is done. I build a web-app, where the user can write numbers, which then get recognised and returned. I, however, wrote a pipeline from an HTML-canvas to tensors, compatible with the NN. Loading might take a few seconds.
   </td>
   <td> <p align="center">
     <a href = "https://erich-ganz-cv.herokuapp.com/sketch_pad"> Webapp </a> & <a href = "https://github.com/gzguevara/Data-Science/blob/master/Deep%20Learning/MNIST_Pipeline.ipynb"> Pipeline </a> 
