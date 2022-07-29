@@ -34,8 +34,7 @@
     Kaggle Competition <br> - Current - 
   </p> </td>
   <td> <p align="center"> 
-    
-    <a href = "https://www.kaggle.com/competitions/amex-default-prediction/overview">American Express Credit Scoring</a>
+    <a href = "https://www.kaggle.com/competitions/amex-default-prediction/overview"> American Express Credit Scoring </a>
   </p> </td>
   <td>
    For our customer large size metal items posed risk in a metal process. I build an app for detection of large items. The app finds edges of items with edge-detection NNs. It constructs convex hulls around the edges and calculate the size of the convex hulls. The application automatically recognizes critically large items. However, due to the spatial circumstances, the exact size might be measured incorrectly.</td>
