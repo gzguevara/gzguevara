@@ -22,8 +22,6 @@
 ## Master Thesis
 
 <table>
-
-
 <tr>
   <td> <p align="center"> 
     Kaggle Competition <br> - Current - 
@@ -38,7 +36,6 @@
   </p> </td>
 </tr>
 
-</tr>
 
 
 ## Latest Projects
