@@ -118,7 +118,7 @@
   <td> <p align="center">
     2OPT Algorithm for Traveling Salesman
   </p> </td>
-  <td>The 2-OPT algorithm and it's variation is my favorit algorithm. Here is a good notebook, which explains how it works with a recursive function. I wrote this notbook in my algorithms class.</td>
+  <td>The 2-OPT algorithm and it's variation is my favorit algorithm. This notebook explains how it works. I wrote this notbook in my algorithms class.</td>
   <td><a href = "https://github.com/gzguevara/Algorithms-And-Programming-Skills/blob/master/TravelingSalesman.ipynb">Code</a></td>
 </tr> 
 </table>
