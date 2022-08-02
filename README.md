@@ -19,25 +19,6 @@
 <br />
 <br />
 
-## Master Thesis
-
-<table>
-<tr>
-  <td> <p align="center"> 
-    Kaggle Competition <br> - Current - 
-  </p> </td>
-  <td> <p align="center"> 
-    <a href = "https://www.kaggle.com/competitions/amex-default-prediction/overview"> American Express Credit Scoring </a>
-  </p> </td>
-  <td>
-   Summer 2022, after my master's, I decide to finally join a kaggle competition. I had some experiance with credit scoring. Currently I am working with an ensemble of models for different kinds of customers. Last time I checked I was on place 655 of 3000. </td>
-  <td> <p align="center"> 
-  <a href = "https://github.com/gzguevara/amex_kaggle"> Code </a>
-  </p> </td>
-</tr>
-</table>
-
-
 ## Latest Projects
 
 <table>
@@ -105,6 +86,26 @@
     <a href = "https://erich-ganz-cv.herokuapp.com/sketch_pad"> Webapp </a> & <a href = "https://github.com/gzguevara/Data-Science/blob/master/Deep%20Learning/MNIST_Pipeline.ipynb"> Pipeline </a> 
   </p> </td>
 </tr> 
+</table>
+
+## Master Thesis
+
+<table>
+<tr>
+
+  <td> <p align="center"> 
+    Internet Activity as Alternative Data. The Link Between Web-Search Traffic And Venture Capital Investments.
+  </p> </td>
+  
+  <td>
+   In my master thesis I explored the predictive capability of web-search traffic data for young companies subject to venture capital investments. The theoretical results can be found in the paper. The coding includes data collection, data analysis, testing hypothesis and data visualization - each part having an own notebook.
+  </td>
+
+  <td> <p align="center"> 
+  <a href = "https://github.com/gzguevara/master_thesis"> Code </a> & <a href = "https://github.com/gzguevara/master_thesis/blob/master/Master_Thesis.pdf"> Paper </a>
+  </p> </td>
+
+</tr>
 </table>
 
 ## Algorithms & Data Structures
