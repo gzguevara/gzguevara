@@ -23,6 +23,12 @@
 
 <table>
 <tr>
+  <th>Project</th>
+  <th>Name</th>
+  <th>Describtion</th>
+  <th>Code</th>
+</tr>
+<tr>
   <td> <p align="center"> 
     Kaggle Competition <br> - Current - 
   </p> </td>
@@ -35,7 +41,6 @@
   <a href = "https://github.com/gzguevara/amex_kaggle"> Code </a>
   </p> </td>
 </tr>
-
 
 
 ## Latest Projects
