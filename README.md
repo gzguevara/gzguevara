@@ -102,7 +102,7 @@
   <td> <p align="center">
     TicTacToe
   </p> </td>
-  <td> 10 x 10 TicTacToe with a terminal interface. Here you can see my ability to write a large program with many interacting function.</td>
+  <td> This is a 10 x 10 TicTacToe with a terminal interface, which I wrote in my free time. It contains many interacting fuctions and a strategy algorithm.</td>
   <td><a href = "https://github.com/gzguevara/Complete-Programs/blob/master/TicTacToe.py">Code</a></td>
 </tr>
 
@@ -110,7 +110,7 @@
   <td> <p align="center"> 
     Calculator of Geometric Shapes
   </p> </td>
-  <td>This program calculates varibales like volume, area of several geometric shapes. It is fully based on OOP and shows that I understand the principals of OOP.</td>
+  <td>This program calculates varibales like volume, area of several geometric shapes. I wrote this program in my programming class. It is fully based on OOP.</td>
   <td><a href = "https://github.com/gzguevara/Complete-Programs/tree/master/CalculatorGrometricsFroms">Code</a></td>
 </tr> 
 
@@ -118,7 +118,7 @@
   <td> <p align="center">
     2OPT Algorithm for Traveling Salesman
   </p> </td>
-  <td>The 2OPT algorithm and it's variation is my favorit algorithm. Here is a good notebook which explains how it works. I also wrote my own implementation with a recursive function.</td>
+  <td>The 2-OPT algorithm and it's variation is my favorit algorithm. Here is a good notebook, which explains how it works with a recursive function. I wrote this notbook in my algorithms class.</td>
   <td><a href = "https://github.com/gzguevara/Algorithms-And-Programming-Skills/blob/master/TravelingSalesman.ipynb">Code</a></td>
 </tr> 
 </table>
