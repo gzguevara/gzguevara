@@ -19,6 +19,27 @@
 <br />
 <br />
 
+## Master Thesis
+
+<table>
+
+
+<tr>
+  <td> <p align="center"> 
+    Kaggle Competition <br> - Current - 
+  </p> </td>
+  <td> <p align="center"> 
+    <a href = "https://www.kaggle.com/competitions/amex-default-prediction/overview"> American Express Credit Scoring </a>
+  </p> </td>
+  <td>
+   Summer 2022, after my master's, I decide to finally join a kaggle competition. I had some experiance with credit scoring. Currently I am working with an ensemble of models for different kinds of customers. Last time I checked I was on place 655 of 3000. </td>
+  <td> <p align="center"> 
+  <a href = "https://github.com/gzguevara/amex_kaggle"> Code </a>
+  </p> </td>
+</tr>
+
+</tr>
+
 
 ## Latest Projects
 
