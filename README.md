@@ -1,7 +1,7 @@
 
 ## Junior Data Scientist & Creative Coder
 
-- 🔗 Find me on [LinkedIn][linked] & [Kaggle][git]
+- 🔗 Find me on [LinkedIn][linked] & [Kaggle][kaggle]
 - 🔭 My interactive DL web-applications [Try it!][website]
 - ⚡ Fun fact: I love languages. I speak fluently 🇩🇪, 🇬🇧, 🇪🇸 and 🇷🇺
 - 🎓 B.Sc. Mathematical Economics & M.Sc. Applied Mathematics & Informatics
@@ -143,6 +143,6 @@
 </table>
 
 [linked]: https://www.linkedin.com/in/erich-ganz-34943b185/
-[git]: https://github.com/gzguevara
+[kaggle]: https://www.kaggle.com/gzguevara
 [website]: https://erich-ganz-cv.herokuapp.com/sketch_pad
 [CV]: https://github.com/gzguevara/gzguevara/blob/master/cvErichGanz.pdf
