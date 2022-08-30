@@ -3,8 +3,8 @@
 
 - 🔭 My interactive DL web-applications [Try it!][website]
 - 📑 The latest version of my CV can be found [here][CV]
-- 🎓 B.Sc. Mathematical Economics & M.Sc. Applied Mathematics & Informatics
 - ⚡ Fun fact: I love languages. I speak fluently 🇩🇪, 🇬🇧, 🇪🇸 and 🇷🇺
+- 🎓 B.Sc. Mathematical Economics & M.Sc. Applied Mathematics & Informatics
 
 ## Programming Languages and Other Tools
 
