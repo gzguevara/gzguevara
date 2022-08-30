@@ -1,6 +1,7 @@
 
 ## Junior Data Scientist & Creative Coder
 
+- 🔗 Find me on [LinkedIn][linked] & [Kaggle][git]
 - 🔭 My interactive DL web-applications [Try it!][website]
 - 📑 The latest version of my CV can be found [here][CV]
 - ⚡ Fun fact: I love languages. I speak fluently 🇩🇪, 🇬🇧, 🇪🇸 and 🇷🇺
@@ -142,6 +143,7 @@
 </tr> 
 </table>
 
-
+[linked]: https://www.linkedin.com/in/erich-ganz-34943b185/
+[git]: https://github.com/gzguevara
 [website]: https://erich-ganz-cv.herokuapp.com/sketch_pad
 [CV]: https://github.com/gzguevara/gzguevara/blob/master/cvErichGanz.pdf
