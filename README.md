@@ -1,8 +1,7 @@
 
-## Junior Data Scientist & Creative Coder
+## Data Scientist, Creative Coder, Kaggle Expert
 
 - 🔗 Find me on [LinkedIn][linked] & [Kaggle][kaggle]
-- 🔭 My interactive DL web-applications [Try it!][website]
 - ⚡ Fun fact: I love languages. I speak fluently 🇩🇪, 🇬🇧, 🇪🇸 and 🇷🇺
 - 🎓 B.Sc. Mathematical Economics & M.Sc. Applied Mathematics & Informatics
 
