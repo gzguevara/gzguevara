@@ -32,13 +32,13 @@
 
 <tr>
   <td> <p align="center"> 
-    Kaggle Competition <br> - Current - 
+    Kaggle Competition <br> - Nov 2022 - 
   </p> </td>
   <td> <p align="center"> 
     <a href = "https://www.kaggle.com/competitions/open-problems-multimodal/overview"> Multimodal Single-Cell Integration </a>
   </p> </td>
   <td>
-   The goal of this competition is to predict how DNA, RNA, and protein measurements co-vary in single cells as bone marrow stem cells develop into more mature blood cells. My goal is desing my own NN and get deep into pytorch. At the end I am planning to blend my results with some LGBM model. </td>
+   Predict how DNA, RNA, and protein measurements co-vary in single cells. Due to the large amount of 0 values in the data, I used sparse-matrix representation and SVD decomposition. I explored new tensorflow methods for vector-to-vector models. I used a custom ensemble method, which was suited for the valuation metric. </td>
   <td> <p align="center"> 
   <a href = "https://github.com/gzguevara/amex_kaggle"> Code </a>
   </p> </td>
