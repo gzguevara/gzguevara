@@ -2,7 +2,7 @@
 ## Data Scientist, Creative Coder, Kaggle Expert
 
 - 🔗 Find me on [LinkedIn][linked] & [Kaggle][kaggle]
-- ⚡ Fun fact: I love languages. I speak fluently 🇩🇪, 🇬🇧, 🇪🇸 and 🇷🇺
+- ⚡ I love languages. I speak fluently 🇩🇪, 🇬🇧, 🇪🇸 and 🇷🇺
 - 🎓 B.Sc. Mathematical Economics & M.Sc. Applied Mathematics & Informatics
 
 ## Programming Languages and Other Tools
