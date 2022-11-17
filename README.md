@@ -51,7 +51,7 @@
     <a href = "https://www.kaggle.com/competitions/amex-default-prediction/overview"> American Express Credit Scoring </a>
   </p> </td>
   <td>
-   Predict default ptobaility of a customer. My creativity in feature engineering got me 3 silver notbook medals and I became a "Kaggle Notebooks Expert". My team provided an ensemble of a XGBoost, LGBM, CatBoost and RNN. We made it into the top 8% and were awarded a 🥉 medal! </td>
+   Predict default ptobaility of customers - binary classification. My creativity in feature engineering got me 3 silver notbook medals. I used various methods based on WoE. I became a "Kaggle Notebooks Expert". My team provided an ensemble of a XGBoost, LGBM, CatBoost and RNN. We made it into the top 8% and were awarded a 🥉 medal! </td>
   <td> <p align="center"> 
   <a href = "https://github.com/gzguevara/amex_kaggle"> Code </a>
   </p> </td>
