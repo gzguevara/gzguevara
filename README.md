@@ -1,9 +1,9 @@
 
 ## Junior Data Scientist, Creative Coder, Kaggle Competitions Expert
 
-- 🔗 Find me on [LinkedIn][linked] & [Kaggle][kaggle]
-- ⚡ I love languages. I speak fluently 🇩🇪, 🇬🇧, 🇪🇸 and 🇷🇺
 - 🎓 B.Sc. Mathematical Economics & M.Sc. Applied Mathematics & Informatics
+- ⚡ I love languages. I speak fluently 🇩🇪, 🇬🇧, 🇪🇸 and 🇷🇺
+- 🔗 Find me on [LinkedIn][linked] & [Kaggle][kaggle]
 
 ## Programming Languages and Other Tools
 
