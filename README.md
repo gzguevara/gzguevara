@@ -1,5 +1,5 @@
 
-## Data Scientist, Creative Coder, Kaggle Expert
+## Junior Data Scientist, Creative Coder, Kaggle Competitions Expert
 
 - 🔗 Find me on [LinkedIn][linked] & [Kaggle][kaggle]
 - ⚡ I love languages. I speak fluently 🇩🇪, 🇬🇧, 🇪🇸 and 🇷🇺
@@ -37,7 +37,7 @@
     <a href = "https://www.kaggle.com/competitions/open-problems-multimodal/overview"> Multimodal Single-Cell Integration </a>
   </p> </td>
   <td>
-   Predict how DNA, RNA, and protein measurements co-vary in single cells. Due to the large amount of 0 values in the data, I used sparse-matrix representation and SVD decomposition. I explored new tensorflow methods for vector-to-vector models. I used a custom ensemble method, which was suited for the valuation metric. </td>
+   Predict how DNA, RNA, and protein measurements co-vary in single cells. I got acquainted with sparse-matrix representation and SVD decomposition. I deeply explored the TF library. I used a custom ensemble methods, which were suited for the valuation metric. My team was awarded a 🥈 medal! </td>
   <td> <p align="center"> 
   <a href = "https://github.com/gzguevara/amex_kaggle"> Code </a>
   </p> </td>
