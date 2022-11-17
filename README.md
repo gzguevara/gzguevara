@@ -37,7 +37,7 @@
     <a href = "https://www.kaggle.com/competitions/open-problems-multimodal/overview"> Multimodal Single-Cell Integration </a>
   </p> </td>
   <td>
-   Predict how DNA, RNA, and protein measurements co-vary in single cells. I got acquainted with sparse-matrix representation and SVD decomposition. I deeply explored the TF library. I used a custom ensemble methods, which were suited for the valuation metric. My team was awarded a 🥈 medal! </td>
+   Predict how DNA, RNA, and protein measurements co-vary in single cells. I got acquainted with sparse-matrix representation and SVD decomposition. I deeply explored the TF library. I used a custom ensemble methods, which were suited for the competition's valuation metric. My team was awarded a 🥈 medal! </td>
   <td> <p align="center"> 
   <a href = "https://github.com/gzguevara/amex_kaggle"> Code </a>
   </p> </td>
@@ -69,21 +69,6 @@
   </td>
   <td> <p align="center"> 
     <a href = "https://github.com/gzguevara/DexiNed_app/blob/master/pipeline_train_cars.ipynb"> Code </a>
-  </p> </td>
-</tr>
-
-<tr>
-  <td> <p align="center">
-    SberBank Hackathon <br> - Dec 2021 - 
-  </p> </td>
-  <td> <p align="center"> 
-    Credit Scoring University Project <a href = "https://dsbattle.com/hackathons/gsb/">GSB Data Science Practice</a>
-  </p> </td>
-  <td>
-    My team computed addtional features based on Altman Z-score, Weights of Evidence and Binning, on which we built a Logistic Regression. We made it on the first place by the results for the model quality. On the leaderbord we landed on the 3rd place.
-  </td>
-  <td> <p align="center"> 
-    <a href = "https://github.com/gzguevara/Data-Science/tree/master/SberBank%20Hackathon"> Code & Presentation</a>
   </p> </td>
 </tr>
 
