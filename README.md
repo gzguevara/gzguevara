@@ -39,7 +39,7 @@
   <td>
    Predict how DNA, RNA, and protein measurements co-vary in single cells. I got acquainted with sparse-matrix representation and SVD decomposition. I deeply explored the TF library. I used a custom ensemble methods, which were suited for the competition's valuation metric. My team was awarded a 🥈 medal! </td>
   <td> <p align="center"> 
-  <a href = "https://github.com/gzguevara/amex_kaggle"> Code </a>
+  <a href = "https://github.com/gzguevara/Open-problems-for-single-cell-2022-Silver-medal-solution"> Code </a>
   </p> </td>
 </tr>
 
