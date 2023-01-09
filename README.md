@@ -1,5 +1,5 @@
 
-## Junior Data Scientist, Creative Coder, Kaggle Competitions Expert
+## Data Scientist, Creative Coder, Kaggle Competitions Expert
 
 - 🎓 B.Sc. Mathematical Economics & M.Sc. Applied Mathematics & Informatics
 - ⚡ I love languages. I speak fluently 🇩🇪, 🇬🇧, 🇪🇸 and 🇷🇺
@@ -37,7 +37,7 @@
     <a href = "https://www.kaggle.com/competitions/open-problems-multimodal/overview"> Multimodal Single-Cell Integration </a>
   </p> </td>
   <td>
-   Predict how DNA, RNA, and protein measurements co-vary in single cells. I got acquainted with sparse-matrix representation and SVD decomposition. I deeply explored the TF library. I used a custom ensemble methods, which were suited for the competition's valuation metric. My team was awarded a 🥈 medal! </td>
+   Predict how DNA, RNA, and protein measurements co-vary in single cells. I used sparse-matrix SVD decomposition to handle the data size. I built custom vector-to-vector architectures with TF. I used ensemble methods, which were suited for the valuation metric. My team was awarded a 🥈 medal with +41 place jump on the private LB! We were invited to present our solution at the NeurIPS 2022 conferecne to present our solution.</td>
   <td> <p align="center"> 
   <a href = "https://github.com/HelloWorldLTY/Open-problems-for-single-cell-2022-Silver-medal-solution"> Code </a>
   </p> </td>
