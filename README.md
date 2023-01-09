@@ -108,40 +108,6 @@
 </tr>
 </table>
 
-## Algorithms & Data Structures
-
-<table>
-<tr>
-  <th>Topic</th>
-  <th>Describtion</th>
-  <th>Code</th>
-</tr> 
-
-<tr>
-  <td> <p align="center">
-    TicTacToe
-  </p> </td>
-  <td> This is a 10 x 10 TicTacToe with a terminal interface, which I wrote in my free time. It contains many interacting fuctions and a strategy algorithm.</td>
-  <td><a href = "https://github.com/gzguevara/Complete-Programs/blob/master/TicTacToe.py">Code</a></td>
-</tr>
-
-<tr>
-  <td> <p align="center"> 
-    Calculator of Geometric Shapes
-  </p> </td>
-  <td>This program calculates varibales like volume, area of several geometric shapes. I wrote this program in my programming class. It is fully based on OOP.</td>
-  <td><a href = "https://github.com/gzguevara/Complete-Programs/tree/master/CalculatorGrometricsFroms">Code</a></td>
-</tr> 
-
-<tr>
-  <td> <p align="center">
-    2OPT Algorithm for Traveling Salesman
-  </p> </td>
-  <td>The 2-OPT algorithm and it's variation is my favorit algorithm. This notebook explains how it works. I wrote this notbook in my algorithms class.</td>
-  <td><a href = "https://github.com/gzguevara/Algorithms-And-Programming-Skills/blob/master/TravelingSalesman.ipynb">Code</a></td>
-</tr> 
-</table>
-
 [linked]: https://www.linkedin.com/in/erich-ganz-34943b185/
 [kaggle]: https://www.kaggle.com/gzguevara
 [website]: https://erich-ganz-cv.herokuapp.com/sketch_pad
