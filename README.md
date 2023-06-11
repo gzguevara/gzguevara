@@ -31,6 +31,21 @@
 
 <tr>
   <td> <p align="center"> 
+    AI Light Show <br> - Nov 2022 - 
+  </p> </td>
+  <td> <p align="center"> 
+    <a> Interactive AI Light Show </a>
+  </p> </td>
+  <td>
+   Interactive AI laser show based on NVIDIA Jetson Orin. CURRENTLY IN WORK.
+  </td>
+  <td> <p align="center"> 
+  <a href = "https://github.com/gzguevara/AI_LASER_SHOW/tree/master"> Code </a>
+  </p> </td>
+</tr>
+
+<tr>
+  <td> <p align="center"> 
     Kaggle Competition <br> - Nov 2022 - 
   </p> </td>
   <td> <p align="center"> 
