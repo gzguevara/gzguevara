@@ -31,7 +31,7 @@
 
 <tr>
   <td> <p align="center"> 
-    AI Light Show <br> - Nov 2022 - 
+    AI Light Show <br> - April 2023 - 
   </p> </td>
   <td> <p align="center"> 
     <a> Interactive AI Light Show </a>
