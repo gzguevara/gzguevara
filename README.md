@@ -31,7 +31,21 @@
 
 <tr>
   <td> <p align="center"> 
-    AI Light Show <br> - April 2023 - 
+    Kaggle Competition <br> - Aug 2023 - 
+  </p> </td>
+  <td> <p align="center"> 
+    <a href = "https://www.kaggle.com/competitions/icr-identify-age-related-conditions"> ICR - Identifying Age-Related Conditions </a>
+  </p> </td>
+  <td>
+   The goal of this competition is to predict if a person has any of three medical conditions. This competition experienced the largest ever observed shake-up on kaggle. Nevertheless, I made it into the 10% and recived a 🥉 medal!</td>
+  <td> <p align="center"> 
+  <a href = "https://www.kaggle.com/code/gzguevara/icr-lgbm-submission?scriptVersionId=135716240"> Code </a>
+  </p> </td>
+</tr>
+
+<tr>
+  <td> <p align="center"> 
+    AI Light Show <br> - Apr 2023 - 
   </p> </td>
   <td> <p align="center"> 
     <a> Interactive AI Light Show </a>
