@@ -86,21 +86,6 @@
     <a href = "https://github.com/gzguevara/DexiNed_app/blob/master/pipeline_train_cars.ipynb"> Code </a>
   </p> </td>
 </tr>
-
-<tr>
-  <td> <p align="center">
-    University Fun Project <br> - Nov 2021 - 
-  </p> </td>
-  <td> <p align="center">
-    Computer Vision Web-app with MNIST numbers
-  </p> </td>
-  <td>
-    Every young data scientist starts from MNIST numbers :) In university courses you train some ResNet18 NN, look at some metric, and the course is done. I build a web-app, where the user can write numbers, which then get recognised and returned. I, however, wrote a pipeline from an HTML-canvas to tensors, compatible with the NN. Loading might take a few seconds.
-  </td>
-  <td> <p align="center">
-    <a href = "https://erich-ganz-cv.herokuapp.com/sketch_pad"> Webapp </a> & <a href = "https://github.com/gzguevara/Data-Science/blob/master/Deep%20Learning/MNIST_Pipeline.ipynb"> Pipeline </a> 
-  </p> </td>
-</tr> 
 </table>
 
 ## Master Thesis
