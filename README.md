@@ -1,8 +1,8 @@
 
-## Data Scientist, Creative Coder, Kaggle Competitions Expert
+## ML Engineerig, Data Science & Creative Coder
 
 - 🎓 B.Sc. Mathematical Economics & M.Sc. Business Informatics
-- ⚡ Part-time translator. I speak fluently 🇩🇪, 🇬🇧, 🇪🇸 and 🇷🇺
+- ⚡ Funfact: I speak fluently 🇩🇪, 🇬🇧, 🇪🇸 and 🇷🇺
 - 🔗 Find me on [LinkedIn][linked] & [Kaggle][kaggle]
 
 ## Programming Languages and Other Tools
