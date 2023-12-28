@@ -1,5 +1,5 @@
 
-## ML Engineerig, Data Science & Creative Coder
+## ML Engineerig, Data Science & Creative Coding
 
 - 🎓 B.Sc. Mathematical Economics & M.Sc. Business Informatics
 - ⚡ Funfact: I speak fluently 🇩🇪, 🇬🇧, 🇪🇸 and 🇷🇺
