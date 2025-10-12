@@ -1,7 +1,7 @@
 
 ## ML Engineerig, Data Science & Creative Coding
 
-- 🎓 B.Sc. Mathematical Economics & M.Sc. Applied Mathematics
+- 🎓 B.Sc. Mathematical Economics & M.Sc. Business Informatics
 - ⚡ Funfact: I speak fluently 🇩🇪, 🇬🇧, 🇪🇸 and 🇷🇺
 - 🔗 Find me on [LinkedIn][linked] & [Kaggle][kaggle]
 
